@@ -2,6 +2,9 @@
 
 Welcome to the StockPicker Crew project, powered by [crewAI](https://crewai.com). This AI-powered system helps you pick the best stocks from any sector through comprehensive market research and analysis. The multi-agent system leverages advanced memory capabilities and web research to provide intelligent stock recommendations with detailed analysis and insights.
 
+![Stock_picker](https://github.com/user-attachments/assets/bff61db6-3efe-427a-9765-1bd9736df0d0)
+
+
 ## Installation
 
 Ensure you have Python >=3.10 <3.13 installed on your system. This project uses [UV](https://docs.astral.sh/uv/) for dependency management and package handling, offering a seamless setup and execution experience.
